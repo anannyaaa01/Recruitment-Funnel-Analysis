@@ -1,0 +1,301 @@
+candidate_id,department,source,apply_date,apply_month,apply_quarter,final_stage,hired,offer_made,rejection_reason,time_to_hire_days,time_to_offer_days,years_experience,expected_salary_lpa
+1001,Sales,Instahyre,2024-11-23,November 2024,Q4 2024,Interview Round 1,0,0,Withdrew,,,1.5,11.3
+1002,Operations,Employee Referral,2024-01-16,January 2024,Q1 2024,Hired,1,1,N/A,44.0,42.0,2.3,11.3
+1003,Engineering,LinkedIn,2024-05-22,May 2024,Q2 2024,Hired,1,1,N/A,38.0,28.0,11.1,5.0
+1004,Engineering,Campus Drive,2024-05-30,May 2024,Q2 2024,Applied,0,0,Skills mismatch,,,1.0,7.7
+1005,Operations,Employee Referral,2024-05-28,May 2024,Q2 2024,Applied,0,0,Skills mismatch,,,4.9,11.9
+1006,Engineering,Instahyre,2024-07-05,July 2024,Q3 2024,Screened,0,0,Skills mismatch,,,7.5,6.7
+1007,Marketing,LinkedIn,2024-05-05,May 2024,Q2 2024,Screened,0,0,Withdrew,,,3.0,9.5
+1008,Engineering,LinkedIn,2024-01-29,January 2024,Q1 2024,Applied,0,0,Better candidate selected,,,5.1,4.7
+1009,Sales,Naukri,2024-10-17,October 2024,Q4 2024,Offer Made,0,1,No show,,39.0,4.7,22.0
+1010,Sales,LinkedIn,2024-03-11,March 2024,Q1 2024,Screened,0,0,Salary expectation,,,7.7,18.2
+1011,Operations,LinkedIn,2024-08-04,August 2024,Q3 2024,Interview Round 1,0,0,Skills mismatch,,,8.3,5.6
+1012,Engineering,Naukri,2024-10-01,October 2024,Q4 2024,Applied,0,0,Better candidate selected,,,1.8,11.5
+1013,Sales,Company Website,2024-08-20,August 2024,Q3 2024,Applied,0,0,Better candidate selected,,,11.7,17.6
+1014,Engineering,Naukri,2024-09-16,September 2024,Q3 2024,Applied,0,0,Better candidate selected,,,10.2,12.9
+1015,Operations,LinkedIn,2024-04-11,April 2024,Q2 2024,Interview Round 1,0,0,Withdrew,,,4.2,3.9
+1016,Operations,LinkedIn,2024-07-04,July 2024,Q3 2024,Screened,0,0,Skills mismatch,,,1.5,12.5
+1017,Engineering,Campus Drive,2024-02-05,February 2024,Q1 2024,Applied,0,0,Salary expectation,,,8.1,21.0
+1018,Finance,Company Website,2024-03-25,March 2024,Q1 2024,Screened,0,0,Withdrew,,,9.2,16.3
+1019,Sales,LinkedIn,2024-12-31,December 2024,Q4 2024,Hired,1,1,N/A,45.0,35.0,3.0,4.8
+1020,Operations,Naukri,2024-11-19,November 2024,Q4 2024,Screened,0,0,Skills mismatch,,,6.4,8.7
+1021,Engineering,Naukri,2024-09-05,September 2024,Q3 2024,Interview Round 1,0,0,Salary expectation,,,1.6,15.7
+1022,Engineering,Campus Drive,2024-06-30,June 2024,Q2 2024,Screened,0,0,Skills mismatch,,,1.2,17.0
+1023,Engineering,Employee Referral,2024-02-25,February 2024,Q1 2024,Hired,1,1,N/A,45.0,35.0,8.0,13.5
+1024,Sales,Naukri,2024-01-08,January 2024,Q1 2024,Applied,0,0,Salary expectation,,,2.4,12.5
+1025,Sales,LinkedIn,2024-04-19,April 2024,Q2 2024,Applied,0,0,Salary expectation,,,4.9,21.7
+1026,Finance,Company Website,2024-05-15,May 2024,Q2 2024,Screened,0,0,No show,,,2.3,9.0
+1027,Finance,Campus Drive,2024-01-30,January 2024,Q1 2024,Hired,1,1,N/A,50.0,46.0,1.3,19.4
+1028,Operations,Campus Drive,2024-07-25,July 2024,Q3 2024,Applied,0,0,Withdrew,,,3.3,14.5
+1029,Engineering,LinkedIn,2024-11-13,November 2024,Q4 2024,Hired,1,1,N/A,40.0,34.0,11.2,20.8
+1030,Engineering,Naukri,2024-01-05,January 2024,Q1 2024,Applied,0,0,Withdrew,,,12.0,4.9
+1031,Sales,LinkedIn,2024-04-19,April 2024,Q2 2024,Screened,0,0,Salary expectation,,,4.7,6.4
+1032,Marketing,Naukri,2024-10-05,October 2024,Q4 2024,Applied,0,0,Withdrew,,,0.6,18.6
+1033,Engineering,Naukri,2024-06-02,June 2024,Q2 2024,Applied,0,0,Salary expectation,,,3.5,20.0
+1034,Engineering,Company Website,2024-10-10,October 2024,Q4 2024,Screened,0,0,Salary expectation,,,8.4,19.3
+1035,Engineering,Instahyre,2024-09-15,September 2024,Q3 2024,Interview Round 1,0,0,Skills mismatch,,,0.5,17.8
+1036,Marketing,LinkedIn,2024-11-22,November 2024,Q4 2024,Screened,0,0,No show,,,7.0,5.6
+1037,Engineering,Company Website,2024-12-19,December 2024,Q4 2024,Screened,0,0,Salary expectation,,,5.4,4.3
+1038,Operations,Employee Referral,2024-07-05,July 2024,Q3 2024,Applied,0,0,Salary expectation,,,8.3,15.8
+1039,Marketing,LinkedIn,2024-06-30,June 2024,Q2 2024,Applied,0,0,No show,,,11.7,17.4
+1040,Sales,LinkedIn,2024-05-01,May 2024,Q2 2024,Applied,0,0,Salary expectation,,,10.6,4.0
+1041,HR,Employee Referral,2024-06-19,June 2024,Q2 2024,Applied,0,0,Salary expectation,,,3.6,18.1
+1042,Sales,LinkedIn,2024-02-25,February 2024,Q1 2024,Applied,0,0,No show,,,3.1,18.6
+1043,Sales,Naukri,2024-08-23,August 2024,Q3 2024,Interview Round 2,0,0,Better candidate selected,,,4.5,12.9
+1044,Operations,Employee Referral,2024-12-13,December 2024,Q4 2024,Hired,1,1,N/A,39.0,32.0,11.8,5.6
+1045,HR,Naukri,2024-10-22,October 2024,Q4 2024,Interview Round 1,0,0,Salary expectation,,,4.7,4.8
+1046,Engineering,Employee Referral,2024-12-06,December 2024,Q4 2024,Screened,0,0,Better candidate selected,,,6.3,15.8
+1047,Marketing,Employee Referral,2024-06-16,June 2024,Q2 2024,Hired,1,1,N/A,44.0,38.0,10.1,9.1
+1048,Marketing,Naukri,2024-04-17,April 2024,Q2 2024,Applied,0,0,Withdrew,,,8.0,12.1
+1049,Sales,Naukri,2024-08-14,August 2024,Q3 2024,Screened,0,0,Better candidate selected,,,6.4,15.2
+1050,Engineering,LinkedIn,2024-06-20,June 2024,Q2 2024,Applied,0,0,Salary expectation,,,8.2,7.7
+1051,Engineering,Employee Referral,2024-04-11,April 2024,Q2 2024,Screened,0,0,Withdrew,,,10.3,4.8
+1052,Sales,Naukri,2024-07-31,July 2024,Q3 2024,Applied,0,0,No show,,,6.2,8.0
+1053,HR,LinkedIn,2024-12-01,December 2024,Q4 2024,Applied,0,0,Skills mismatch,,,9.5,7.5
+1054,Sales,Company Website,2024-12-22,December 2024,Q4 2024,Hired,1,1,N/A,51.0,42.0,8.8,12.8
+1055,Engineering,LinkedIn,2024-10-07,October 2024,Q4 2024,Applied,0,0,No show,,,5.7,17.4
+1056,Engineering,LinkedIn,2024-11-22,November 2024,Q4 2024,Applied,0,0,Withdrew,,,6.1,7.9
+1057,HR,Company Website,2024-08-13,August 2024,Q3 2024,Applied,0,0,Salary expectation,,,3.6,9.4
+1058,Operations,Campus Drive,2024-10-03,October 2024,Q4 2024,Interview Round 1,0,0,Skills mismatch,,,5.3,9.6
+1059,Marketing,LinkedIn,2024-08-26,August 2024,Q3 2024,Interview Round 1,0,0,Withdrew,,,4.9,3.6
+1060,HR,Naukri,2024-06-29,June 2024,Q2 2024,Applied,0,0,No show,,,6.7,17.1
+1061,Marketing,Campus Drive,2024-11-04,November 2024,Q4 2024,Interview Round 2,0,0,No show,,,11.1,21.6
+1062,Sales,LinkedIn,2024-09-30,September 2024,Q3 2024,Applied,0,0,Withdrew,,,7.0,4.0
+1063,Engineering,Naukri,2024-11-25,November 2024,Q4 2024,Hired,1,1,N/A,43.0,35.0,11.4,11.3
+1064,Marketing,Campus Drive,2024-02-11,February 2024,Q1 2024,Interview Round 2,0,0,Skills mismatch,,,9.2,21.1
+1065,Engineering,Naukri,2024-04-12,April 2024,Q2 2024,Applied,0,0,Salary expectation,,,2.0,15.9
+1066,Sales,LinkedIn,2024-10-15,October 2024,Q4 2024,Screened,0,0,Salary expectation,,,7.5,21.3
+1067,Engineering,Naukri,2024-02-28,February 2024,Q1 2024,Applied,0,0,Skills mismatch,,,7.2,20.7
+1068,Finance,Naukri,2024-10-21,October 2024,Q4 2024,Interview Round 2,0,0,Withdrew,,,9.8,18.2
+1069,Sales,Employee Referral,2024-10-16,October 2024,Q4 2024,Hired,1,1,N/A,31.0,28.0,4.7,20.0
+1070,Sales,Instahyre,2024-08-23,August 2024,Q3 2024,Screened,0,0,Better candidate selected,,,7.6,20.5
+1071,Finance,LinkedIn,2024-09-04,September 2024,Q3 2024,Interview Round 1,0,0,Skills mismatch,,,3.7,11.8
+1072,Sales,Naukri,2024-08-25,August 2024,Q3 2024,Screened,0,0,Salary expectation,,,6.1,10.1
+1073,Engineering,LinkedIn,2024-05-12,May 2024,Q2 2024,Screened,0,0,Withdrew,,,11.4,5.1
+1074,Operations,Naukri,2024-07-27,July 2024,Q3 2024,Screened,0,0,No show,,,5.7,3.8
+1075,Engineering,LinkedIn,2024-05-30,May 2024,Q2 2024,Hired,1,1,N/A,46.0,37.0,3.4,5.7
+1076,HR,LinkedIn,2024-04-08,April 2024,Q2 2024,Screened,0,0,Salary expectation,,,2.7,17.2
+1077,Engineering,Naukri,2024-05-21,May 2024,Q2 2024,Screened,0,0,Better candidate selected,,,3.1,6.8
+1078,Finance,LinkedIn,2024-01-08,January 2024,Q1 2024,Screened,0,0,Withdrew,,,3.9,21.0
+1079,Operations,Company Website,2024-11-22,November 2024,Q4 2024,Screened,0,0,No show,,,6.0,9.8
+1080,Engineering,Employee Referral,2024-01-27,January 2024,Q1 2024,Applied,0,0,No show,,,1.8,4.7
+1081,Sales,Employee Referral,2024-09-08,September 2024,Q3 2024,Hired,1,1,N/A,29.0,24.0,4.9,20.3
+1082,Operations,Naukri,2024-06-01,June 2024,Q2 2024,Screened,0,0,Skills mismatch,,,11.4,7.3
+1083,Engineering,Company Website,2024-04-18,April 2024,Q2 2024,Applied,0,0,Salary expectation,,,3.3,13.7
+1084,Sales,LinkedIn,2024-03-21,March 2024,Q1 2024,Interview Round 2,0,0,No show,,,1.3,7.8
+1085,Engineering,Employee Referral,2024-05-15,May 2024,Q2 2024,Interview Round 1,0,0,Salary expectation,,,1.3,6.6
+1086,Operations,LinkedIn,2024-06-06,June 2024,Q2 2024,Screened,0,0,No show,,,11.3,12.8
+1087,Sales,LinkedIn,2024-09-09,September 2024,Q3 2024,Screened,0,0,Better candidate selected,,,7.4,4.0
+1088,Operations,LinkedIn,2024-04-27,April 2024,Q2 2024,Applied,0,0,Better candidate selected,,,7.1,17.6
+1089,Operations,Naukri,2024-03-30,March 2024,Q1 2024,Screened,0,0,Salary expectation,,,12.0,11.6
+1090,Finance,LinkedIn,2024-09-08,September 2024,Q3 2024,Interview Round 1,0,0,Better candidate selected,,,5.2,12.7
+1091,Sales,LinkedIn,2024-12-05,December 2024,Q4 2024,Applied,0,0,Withdrew,,,0.9,5.1
+1092,HR,Campus Drive,2024-05-09,May 2024,Q2 2024,Screened,0,0,Skills mismatch,,,8.1,13.5
+1093,Engineering,Employee Referral,2024-07-30,July 2024,Q3 2024,Hired,1,1,N/A,36.0,30.0,8.5,5.7
+1094,Marketing,Employee Referral,2024-11-18,November 2024,Q4 2024,Interview Round 2,0,0,Skills mismatch,,,5.8,5.7
+1095,Sales,LinkedIn,2024-03-19,March 2024,Q1 2024,Applied,0,0,Better candidate selected,,,6.4,8.6
+1096,Engineering,Campus Drive,2024-09-04,September 2024,Q3 2024,Interview Round 1,0,0,Withdrew,,,9.1,6.0
+1097,HR,Employee Referral,2024-02-05,February 2024,Q1 2024,Applied,0,0,No show,,,4.4,18.1
+1098,Sales,Naukri,2024-05-16,May 2024,Q2 2024,Screened,0,0,Withdrew,,,12.0,12.6
+1099,Operations,Campus Drive,2024-03-17,March 2024,Q1 2024,Applied,0,0,Better candidate selected,,,4.3,17.6
+1100,HR,Company Website,2024-07-12,July 2024,Q3 2024,Applied,0,0,Salary expectation,,,11.8,7.9
+1101,Operations,LinkedIn,2024-07-15,July 2024,Q3 2024,Applied,0,0,No show,,,1.0,17.3
+1102,Engineering,Campus Drive,2024-12-27,December 2024,Q4 2024,Screened,0,0,Skills mismatch,,,2.0,21.4
+1103,Operations,LinkedIn,2024-06-18,June 2024,Q2 2024,Applied,0,0,No show,,,1.6,20.3
+1104,Engineering,Employee Referral,2024-01-08,January 2024,Q1 2024,Hired,1,1,N/A,39.0,29.0,4.1,16.8
+1105,Engineering,LinkedIn,2024-09-06,September 2024,Q3 2024,Interview Round 1,0,0,Skills mismatch,,,5.5,5.3
+1106,Sales,Employee Referral,2024-11-20,November 2024,Q4 2024,Screened,0,0,Skills mismatch,,,4.2,4.5
+1107,Operations,LinkedIn,2024-07-02,July 2024,Q3 2024,Hired,1,1,N/A,32.0,27.0,7.2,7.8
+1108,Operations,LinkedIn,2024-11-22,November 2024,Q4 2024,Screened,0,0,No show,,,10.9,16.0
+1109,Sales,Company Website,2024-03-21,March 2024,Q1 2024,Screened,0,0,Better candidate selected,,,7.8,11.3
+1110,Operations,Company Website,2024-05-08,May 2024,Q2 2024,Applied,0,0,Salary expectation,,,12.0,19.3
+1111,Operations,Employee Referral,2024-02-24,February 2024,Q1 2024,Hired,1,1,N/A,37.0,28.0,10.9,17.9
+1112,Engineering,Naukri,2024-04-27,April 2024,Q2 2024,Screened,0,0,Salary expectation,,,7.7,20.2
+1113,Engineering,LinkedIn,2024-11-26,November 2024,Q4 2024,Interview Round 1,0,0,Skills mismatch,,,11.0,9.5
+1114,Finance,Naukri,2024-07-31,July 2024,Q3 2024,Screened,0,0,Better candidate selected,,,6.6,20.4
+1115,HR,Employee Referral,2024-03-25,March 2024,Q1 2024,Applied,0,0,No show,,,11.6,9.0
+1116,Marketing,Naukri,2024-06-22,June 2024,Q2 2024,Interview Round 1,0,0,No show,,,11.6,18.4
+1117,Operations,Naukri,2024-07-06,July 2024,Q3 2024,Applied,0,0,Skills mismatch,,,3.5,5.8
+1118,Engineering,Employee Referral,2024-07-07,July 2024,Q3 2024,Offer Made,0,1,Better candidate selected,,33.0,8.0,5.7
+1119,Engineering,LinkedIn,2024-01-24,January 2024,Q1 2024,Interview Round 1,0,0,Salary expectation,,,5.0,10.4
+1120,Operations,LinkedIn,2024-12-22,December 2024,Q4 2024,Screened,0,0,Skills mismatch,,,10.1,14.9
+1121,Finance,Instahyre,2024-05-23,May 2024,Q2 2024,Applied,0,0,Salary expectation,,,5.6,21.1
+1122,HR,Naukri,2024-07-04,July 2024,Q3 2024,Applied,0,0,Better candidate selected,,,6.8,21.6
+1123,Engineering,Campus Drive,2024-07-02,July 2024,Q3 2024,Screened,0,0,No show,,,1.6,7.4
+1124,Sales,Instahyre,2024-11-23,November 2024,Q4 2024,Interview Round 1,0,0,Salary expectation,,,1.3,17.7
+1125,Finance,Campus Drive,2024-04-16,April 2024,Q2 2024,Applied,0,0,Salary expectation,,,4.3,6.2
+1126,Engineering,Naukri,2024-11-01,November 2024,Q4 2024,Screened,0,0,Withdrew,,,3.4,6.7
+1127,HR,Naukri,2024-12-04,December 2024,Q4 2024,Screened,0,0,Salary expectation,,,7.3,3.8
+1128,Engineering,Employee Referral,2024-05-15,May 2024,Q2 2024,Offer Made,0,1,Skills mismatch,,23.0,8.9,20.3
+1129,Finance,Employee Referral,2024-12-03,December 2024,Q4 2024,Interview Round 1,0,0,No show,,,8.4,12.6
+1130,Operations,LinkedIn,2024-08-15,August 2024,Q3 2024,Applied,0,0,Better candidate selected,,,7.5,4.7
+1131,Operations,Instahyre,2024-05-20,May 2024,Q2 2024,Applied,0,0,No show,,,11.9,13.3
+1132,Engineering,Naukri,2024-08-20,August 2024,Q3 2024,Applied,0,0,Skills mismatch,,,9.6,5.6
+1133,HR,Company Website,2024-12-01,December 2024,Q4 2024,Applied,0,0,Salary expectation,,,5.4,19.9
+1134,Operations,Employee Referral,2024-07-30,July 2024,Q3 2024,Applied,0,0,No show,,,5.3,5.3
+1135,Sales,LinkedIn,2024-08-06,August 2024,Q3 2024,Applied,0,0,Better candidate selected,,,11.5,16.2
+1136,Marketing,Company Website,2024-08-30,August 2024,Q3 2024,Interview Round 1,0,0,Better candidate selected,,,9.8,13.8
+1137,HR,Campus Drive,2024-10-27,October 2024,Q4 2024,Applied,0,0,Skills mismatch,,,5.2,19.7
+1138,Sales,Naukri,2024-08-04,August 2024,Q3 2024,Applied,0,0,Withdrew,,,4.1,5.4
+1139,Marketing,Employee Referral,2024-09-16,September 2024,Q3 2024,Hired,1,1,N/A,41.0,33.0,11.7,18.6
+1140,Operations,Company Website,2024-11-10,November 2024,Q4 2024,Interview Round 1,0,0,Better candidate selected,,,11.1,10.0
+1141,HR,Naukri,2024-04-02,April 2024,Q2 2024,Hired,1,1,N/A,36.0,32.0,8.8,17.9
+1142,Sales,LinkedIn,2024-10-17,October 2024,Q4 2024,Applied,0,0,Salary expectation,,,2.3,14.9
+1143,Operations,LinkedIn,2024-12-11,December 2024,Q4 2024,Interview Round 2,0,0,Skills mismatch,,,4.5,5.6
+1144,Sales,Naukri,2024-12-13,December 2024,Q4 2024,Interview Round 1,0,0,Skills mismatch,,,0.6,9.1
+1145,Engineering,Employee Referral,2024-04-18,April 2024,Q2 2024,Applied,0,0,Better candidate selected,,,4.3,3.6
+1146,Engineering,LinkedIn,2024-08-08,August 2024,Q3 2024,Screened,0,0,Withdrew,,,6.9,15.9
+1147,Marketing,Naukri,2024-06-30,June 2024,Q2 2024,Interview Round 1,0,0,Better candidate selected,,,7.1,14.1
+1148,Engineering,Naukri,2024-12-29,December 2024,Q4 2024,Interview Round 2,0,0,Better candidate selected,,,1.5,19.1
+1149,Marketing,LinkedIn,2024-05-04,May 2024,Q2 2024,Interview Round 1,0,0,Salary expectation,,,4.3,6.6
+1150,Operations,LinkedIn,2024-09-18,September 2024,Q3 2024,Screened,0,0,Better candidate selected,,,4.5,21.2
+1151,Engineering,Naukri,2024-11-26,November 2024,Q4 2024,Hired,1,1,N/A,33.0,24.0,10.6,15.4
+1152,Sales,Employee Referral,2024-11-15,November 2024,Q4 2024,Applied,0,0,Better candidate selected,,,2.2,4.8
+1153,Operations,Instahyre,2024-08-14,August 2024,Q3 2024,Applied,0,0,Withdrew,,,1.1,12.9
+1154,Sales,Naukri,2024-06-07,June 2024,Q2 2024,Offer Made,0,1,Skills mismatch,,30.0,5.7,18.5
+1155,Marketing,LinkedIn,2024-11-29,November 2024,Q4 2024,Interview Round 2,0,0,Skills mismatch,,,6.3,6.7
+1156,Sales,LinkedIn,2024-05-06,May 2024,Q2 2024,Applied,0,0,Withdrew,,,6.5,6.4
+1157,Engineering,Instahyre,2024-07-09,July 2024,Q3 2024,Screened,0,0,Skills mismatch,,,9.6,15.5
+1158,Marketing,Employee Referral,2024-02-03,February 2024,Q1 2024,Interview Round 2,0,0,Better candidate selected,,,11.6,16.4
+1159,Sales,LinkedIn,2024-07-19,July 2024,Q3 2024,Interview Round 2,0,0,Withdrew,,,1.6,15.9
+1160,Engineering,LinkedIn,2024-09-17,September 2024,Q3 2024,Offer Made,0,1,Skills mismatch,,31.0,6.3,13.5
+1161,Sales,Employee Referral,2024-09-26,September 2024,Q3 2024,Offer Made,0,1,Withdrew,,16.0,3.8,17.3
+1162,Operations,LinkedIn,2024-08-17,August 2024,Q3 2024,Screened,0,0,No show,,,10.9,7.1
+1163,Finance,Company Website,2024-12-13,December 2024,Q4 2024,Screened,0,0,Withdrew,,,6.6,21.4
+1164,Operations,Employee Referral,2024-04-12,April 2024,Q2 2024,Applied,0,0,Skills mismatch,,,7.9,19.7
+1165,Sales,LinkedIn,2024-10-10,October 2024,Q4 2024,Applied,0,0,Withdrew,,,10.3,8.8
+1166,Sales,Company Website,2024-03-23,March 2024,Q1 2024,Interview Round 2,0,0,Better candidate selected,,,11.2,11.2
+1167,Engineering,LinkedIn,2024-07-21,July 2024,Q3 2024,Screened,0,0,Better candidate selected,,,3.1,9.4
+1168,Engineering,LinkedIn,2024-02-20,February 2024,Q1 2024,Applied,0,0,Salary expectation,,,0.9,20.5
+1169,HR,Employee Referral,2024-08-29,August 2024,Q3 2024,Applied,0,0,No show,,,5.7,3.6
+1170,Sales,LinkedIn,2024-02-10,February 2024,Q1 2024,Hired,1,1,N/A,33.0,25.0,7.7,4.7
+1171,Sales,Naukri,2024-09-12,September 2024,Q3 2024,Screened,0,0,Salary expectation,,,3.8,3.5
+1172,Engineering,Naukri,2024-06-29,June 2024,Q2 2024,Screened,0,0,Skills mismatch,,,6.5,10.2
+1173,Sales,Employee Referral,2024-09-26,September 2024,Q3 2024,Interview Round 1,0,0,Skills mismatch,,,7.8,21.6
+1174,Operations,LinkedIn,2024-05-09,May 2024,Q2 2024,Interview Round 1,0,0,Better candidate selected,,,2.0,10.0
+1175,Sales,Employee Referral,2024-06-22,June 2024,Q2 2024,Applied,0,0,No show,,,11.8,12.4
+1176,Sales,Campus Drive,2024-04-03,April 2024,Q2 2024,Interview Round 2,0,0,Better candidate selected,,,11.2,13.0
+1177,Operations,LinkedIn,2024-10-05,October 2024,Q4 2024,Interview Round 1,0,0,Better candidate selected,,,3.6,18.3
+1178,Engineering,Employee Referral,2024-08-11,August 2024,Q3 2024,Applied,0,0,No show,,,4.4,7.0
+1179,Engineering,Employee Referral,2024-12-20,December 2024,Q4 2024,Hired,1,1,N/A,36.0,29.0,4.3,9.0
+1180,Finance,Employee Referral,2024-08-16,August 2024,Q3 2024,Hired,1,1,N/A,36.0,34.0,7.8,10.2
+1181,Sales,Employee Referral,2024-12-13,December 2024,Q4 2024,Applied,0,0,Salary expectation,,,10.3,16.0
+1182,Sales,Naukri,2024-08-12,August 2024,Q3 2024,Screened,0,0,Better candidate selected,,,4.7,21.1
+1183,Finance,Naukri,2024-01-17,January 2024,Q1 2024,Applied,0,0,Better candidate selected,,,4.8,17.6
+1184,Finance,Campus Drive,2024-10-20,October 2024,Q4 2024,Applied,0,0,No show,,,4.1,8.7
+1185,Engineering,LinkedIn,2024-02-28,February 2024,Q1 2024,Applied,0,0,No show,,,6.5,20.4
+1186,Engineering,LinkedIn,2024-03-01,March 2024,Q1 2024,Applied,0,0,No show,,,3.0,14.8
+1187,Engineering,Employee Referral,2024-12-21,December 2024,Q4 2024,Screened,0,0,No show,,,2.5,16.7
+1188,Engineering,Naukri,2024-02-14,February 2024,Q1 2024,Applied,0,0,Skills mismatch,,,6.8,8.9
+1189,Marketing,LinkedIn,2024-06-02,June 2024,Q2 2024,Applied,0,0,Salary expectation,,,9.6,12.9
+1190,Marketing,LinkedIn,2024-03-03,March 2024,Q1 2024,Applied,0,0,Salary expectation,,,9.6,4.0
+1191,Engineering,Employee Referral,2024-10-10,October 2024,Q4 2024,Interview Round 2,0,0,No show,,,6.5,17.7
+1192,Operations,Campus Drive,2024-10-21,October 2024,Q4 2024,Screened,0,0,No show,,,5.9,13.1
+1193,Operations,Company Website,2024-03-06,March 2024,Q1 2024,Applied,0,0,Salary expectation,,,9.3,5.9
+1194,Engineering,LinkedIn,2024-09-14,September 2024,Q3 2024,Applied,0,0,Withdrew,,,2.3,6.5
+1195,Marketing,Company Website,2024-06-14,June 2024,Q2 2024,Screened,0,0,Skills mismatch,,,3.4,15.2
+1196,Finance,Naukri,2024-10-09,October 2024,Q4 2024,Screened,0,0,Skills mismatch,,,6.3,6.6
+1197,Sales,Company Website,2024-10-24,October 2024,Q4 2024,Screened,0,0,Withdrew,,,1.0,19.5
+1198,Sales,Campus Drive,2024-02-11,February 2024,Q1 2024,Applied,0,0,Withdrew,,,3.5,7.4
+1199,HR,Naukri,2024-10-19,October 2024,Q4 2024,Applied,0,0,Skills mismatch,,,6.2,15.1
+1200,Marketing,Company Website,2024-05-28,May 2024,Q2 2024,Interview Round 1,0,0,Salary expectation,,,5.6,12.5
+1201,Engineering,Campus Drive,2024-04-14,April 2024,Q2 2024,Applied,0,0,Better candidate selected,,,10.4,9.4
+1202,Sales,Company Website,2024-06-25,June 2024,Q2 2024,Hired,1,1,N/A,39.0,36.0,11.4,19.5
+1203,Sales,Campus Drive,2024-08-02,August 2024,Q3 2024,Applied,0,0,Salary expectation,,,9.9,20.8
+1204,Sales,LinkedIn,2024-06-09,June 2024,Q2 2024,Applied,0,0,No show,,,12.0,12.1
+1205,HR,LinkedIn,2024-06-06,June 2024,Q2 2024,Hired,1,1,N/A,44.0,35.0,0.6,5.5
+1206,Sales,Instahyre,2024-03-09,March 2024,Q1 2024,Applied,0,0,No show,,,4.7,10.9
+1207,Finance,Employee Referral,2024-10-18,October 2024,Q4 2024,Hired,1,1,N/A,44.0,41.0,9.6,9.8
+1208,Operations,Naukri,2024-07-06,July 2024,Q3 2024,Interview Round 2,0,0,No show,,,6.5,6.3
+1209,Engineering,Naukri,2024-09-20,September 2024,Q3 2024,Interview Round 2,0,0,Withdrew,,,6.1,13.9
+1210,Operations,Company Website,2024-08-31,August 2024,Q3 2024,Screened,0,0,Withdrew,,,4.0,20.1
+1211,Marketing,Company Website,2024-12-18,December 2024,Q4 2024,Screened,0,0,Withdrew,,,7.1,16.8
+1212,Engineering,Naukri,2024-10-25,October 2024,Q4 2024,Hired,1,1,N/A,38.0,34.0,2.8,12.8
+1213,Engineering,Naukri,2024-11-09,November 2024,Q4 2024,Applied,0,0,Skills mismatch,,,8.6,13.1
+1214,Sales,Campus Drive,2024-10-14,October 2024,Q4 2024,Applied,0,0,No show,,,6.5,9.3
+1215,Sales,LinkedIn,2024-03-29,March 2024,Q1 2024,Applied,0,0,Better candidate selected,,,6.8,16.0
+1216,Engineering,Company Website,2024-12-14,December 2024,Q4 2024,Applied,0,0,Salary expectation,,,11.5,8.7
+1217,Operations,LinkedIn,2024-06-01,June 2024,Q2 2024,Applied,0,0,Better candidate selected,,,9.4,16.5
+1218,Engineering,Employee Referral,2024-12-19,December 2024,Q4 2024,Hired,1,1,N/A,44.0,40.0,3.8,16.7
+1219,Engineering,Company Website,2024-06-26,June 2024,Q2 2024,Applied,0,0,No show,,,3.0,18.8
+1220,Operations,LinkedIn,2024-05-18,May 2024,Q2 2024,Applied,0,0,Salary expectation,,,1.8,17.2
+1221,Engineering,Instahyre,2024-05-02,May 2024,Q2 2024,Hired,1,1,N/A,41.0,37.0,6.8,20.7
+1222,Sales,Naukri,2024-07-27,July 2024,Q3 2024,Screened,0,0,Better candidate selected,,,4.2,15.4
+1223,Marketing,Campus Drive,2024-02-15,February 2024,Q1 2024,Applied,0,0,Skills mismatch,,,11.0,6.7
+1224,Finance,Company Website,2024-03-31,March 2024,Q1 2024,Applied,0,0,No show,,,9.6,6.9
+1225,Sales,LinkedIn,2024-05-28,May 2024,Q2 2024,Screened,0,0,Better candidate selected,,,3.8,21.8
+1226,Marketing,Employee Referral,2024-10-05,October 2024,Q4 2024,Screened,0,0,No show,,,3.6,18.5
+1227,Sales,Campus Drive,2024-06-18,June 2024,Q2 2024,Applied,0,0,Better candidate selected,,,8.8,3.8
+1228,Engineering,Naukri,2024-06-21,June 2024,Q2 2024,Interview Round 1,0,0,Withdrew,,,4.3,10.9
+1229,Engineering,Naukri,2024-02-18,February 2024,Q1 2024,Applied,0,0,No show,,,4.2,8.1
+1230,Engineering,LinkedIn,2024-05-13,May 2024,Q2 2024,Screened,0,0,Better candidate selected,,,7.2,14.1
+1231,Engineering,Employee Referral,2024-05-13,May 2024,Q2 2024,Hired,1,1,N/A,38.0,32.0,3.0,21.2
+1232,Operations,Employee Referral,2024-09-01,September 2024,Q3 2024,Interview Round 1,0,0,Withdrew,,,9.7,18.8
+1233,Finance,Naukri,2024-05-06,May 2024,Q2 2024,Screened,0,0,Skills mismatch,,,11.0,5.6
+1234,Engineering,Campus Drive,2024-10-07,October 2024,Q4 2024,Interview Round 1,0,0,No show,,,1.8,7.3
+1235,Engineering,Instahyre,2024-10-25,October 2024,Q4 2024,Hired,1,1,N/A,39.0,33.0,5.1,18.6
+1236,Engineering,Instahyre,2024-04-21,April 2024,Q2 2024,Screened,0,0,Withdrew,,,11.9,20.8
+1237,Engineering,Campus Drive,2024-02-05,February 2024,Q1 2024,Interview Round 1,0,0,No show,,,4.8,20.0
+1238,Sales,Instahyre,2024-08-17,August 2024,Q3 2024,Offer Made,0,1,Skills mismatch,,39.0,11.8,12.1
+1239,Engineering,Employee Referral,2024-10-05,October 2024,Q4 2024,Interview Round 2,0,0,Skills mismatch,,,0.9,15.7
+1240,Finance,Naukri,2024-11-10,November 2024,Q4 2024,Hired,1,1,N/A,16.0,11.0,9.2,17.9
+1241,Operations,Employee Referral,2024-03-12,March 2024,Q1 2024,Applied,0,0,Salary expectation,,,9.9,17.0
+1242,Sales,Employee Referral,2024-06-12,June 2024,Q2 2024,Screened,0,0,Withdrew,,,3.0,9.1
+1243,Operations,Campus Drive,2024-02-01,February 2024,Q1 2024,Applied,0,0,Salary expectation,,,7.7,11.4
+1244,Engineering,LinkedIn,2024-09-10,September 2024,Q3 2024,Applied,0,0,No show,,,9.5,9.4
+1245,Finance,Campus Drive,2024-08-01,August 2024,Q3 2024,HR Round,0,0,Skills mismatch,,,7.0,21.4
+1246,Sales,Employee Referral,2024-10-12,October 2024,Q4 2024,Interview Round 2,0,0,Skills mismatch,,,6.7,18.8
+1247,Engineering,LinkedIn,2024-01-27,January 2024,Q1 2024,Screened,0,0,Salary expectation,,,9.8,14.4
+1248,Sales,Naukri,2024-12-09,December 2024,Q4 2024,Screened,0,0,Better candidate selected,,,4.0,20.3
+1249,Operations,LinkedIn,2024-04-18,April 2024,Q2 2024,Applied,0,0,Skills mismatch,,,9.1,17.5
+1250,Finance,Instahyre,2024-05-04,May 2024,Q2 2024,Screened,0,0,Better candidate selected,,,4.9,13.4
+1251,Operations,Naukri,2024-07-02,July 2024,Q3 2024,Screened,0,0,No show,,,1.6,21.7
+1252,Sales,Company Website,2024-08-28,August 2024,Q3 2024,Applied,0,0,Better candidate selected,,,4.1,4.3
+1253,Operations,LinkedIn,2024-04-23,April 2024,Q2 2024,Screened,0,0,Withdrew,,,8.8,9.0
+1254,HR,Company Website,2024-04-10,April 2024,Q2 2024,Interview Round 2,0,0,No show,,,5.8,17.1
+1255,Finance,Employee Referral,2024-06-29,June 2024,Q2 2024,Interview Round 1,0,0,Skills mismatch,,,6.5,19.0
+1256,Operations,Naukri,2024-02-08,February 2024,Q1 2024,Applied,0,0,No show,,,2.1,15.2
+1257,Finance,Campus Drive,2024-02-04,February 2024,Q1 2024,Interview Round 1,0,0,Withdrew,,,11.0,15.7
+1258,Engineering,LinkedIn,2024-01-09,January 2024,Q1 2024,Interview Round 1,0,0,Withdrew,,,11.7,3.8
+1259,Sales,Company Website,2024-12-23,December 2024,Q4 2024,Applied,0,0,Salary expectation,,,1.7,5.3
+1260,Finance,LinkedIn,2024-03-17,March 2024,Q1 2024,Offer Made,0,1,Salary expectation,,38.0,3.9,18.8
+1261,Operations,Naukri,2024-02-11,February 2024,Q1 2024,Interview Round 2,0,0,Skills mismatch,,,6.2,11.5
+1262,Finance,Company Website,2024-06-18,June 2024,Q2 2024,Applied,0,0,Skills mismatch,,,3.1,20.2
+1263,Marketing,Naukri,2024-12-20,December 2024,Q4 2024,Screened,0,0,Better candidate selected,,,10.8,13.9
+1264,Sales,LinkedIn,2024-01-17,January 2024,Q1 2024,Applied,0,0,Better candidate selected,,,0.7,7.3
+1265,Engineering,Campus Drive,2024-03-14,March 2024,Q1 2024,Applied,0,0,Better candidate selected,,,2.4,7.9
+1266,Marketing,Instahyre,2024-07-18,July 2024,Q3 2024,Screened,0,0,Skills mismatch,,,6.3,21.5
+1267,Finance,Employee Referral,2024-01-28,January 2024,Q1 2024,Interview Round 1,0,0,Better candidate selected,,,0.8,8.6
+1268,Marketing,Campus Drive,2024-08-18,August 2024,Q3 2024,Screened,0,0,No show,,,2.6,14.3
+1269,Marketing,LinkedIn,2024-07-13,July 2024,Q3 2024,Applied,0,0,Better candidate selected,,,9.7,16.7
+1270,Sales,LinkedIn,2024-02-12,February 2024,Q1 2024,Screened,0,0,Better candidate selected,,,4.6,5.2
+1271,Finance,Employee Referral,2024-06-06,June 2024,Q2 2024,Hired,1,1,N/A,39.0,37.0,6.9,14.5
+1272,Engineering,Employee Referral,2024-06-15,June 2024,Q2 2024,Interview Round 2,0,0,Salary expectation,,,7.1,6.6
+1273,Operations,Naukri,2024-07-13,July 2024,Q3 2024,Hired,1,1,N/A,31.0,28.0,11.4,16.8
+1274,Engineering,Employee Referral,2024-09-10,September 2024,Q3 2024,Hired,1,1,N/A,40.0,32.0,10.4,21.5
+1275,Sales,Company Website,2024-03-10,March 2024,Q1 2024,Interview Round 1,0,0,Better candidate selected,,,3.9,16.4
+1276,Sales,Campus Drive,2024-09-08,September 2024,Q3 2024,Screened,0,0,No show,,,4.7,20.7
+1277,Operations,Employee Referral,2024-04-12,April 2024,Q2 2024,Interview Round 1,0,0,Salary expectation,,,5.5,8.9
+1278,HR,Naukri,2024-12-20,December 2024,Q4 2024,Applied,0,0,No show,,,8.2,6.1
+1279,Engineering,LinkedIn,2024-06-04,June 2024,Q2 2024,Screened,0,0,No show,,,1.4,21.8
+1280,Marketing,Employee Referral,2024-09-02,September 2024,Q3 2024,Hired,1,1,N/A,41.0,36.0,4.6,15.5
+1281,Operations,LinkedIn,2024-01-23,January 2024,Q1 2024,Applied,0,0,Better candidate selected,,,11.6,11.5
+1282,Engineering,LinkedIn,2024-01-06,January 2024,Q1 2024,Screened,0,0,Withdrew,,,7.2,14.1
+1283,Sales,Employee Referral,2024-08-16,August 2024,Q3 2024,Hired,1,1,N/A,32.0,28.0,4.4,18.0
+1284,Sales,Naukri,2024-09-23,September 2024,Q3 2024,Hired,1,1,N/A,37.0,30.0,8.3,6.5
+1285,HR,Naukri,2024-05-04,May 2024,Q2 2024,Interview Round 1,0,0,Salary expectation,,,9.7,15.2
+1286,Sales,Company Website,2024-04-05,April 2024,Q2 2024,Hired,1,1,N/A,39.0,29.0,4.2,12.0
+1287,Sales,Employee Referral,2024-05-14,May 2024,Q2 2024,Offer Made,0,1,Withdrew,,40.0,1.5,6.0
+1288,HR,Campus Drive,2024-03-01,March 2024,Q1 2024,Hired,1,1,N/A,38.0,29.0,8.5,15.4
+1289,Engineering,Campus Drive,2024-03-29,March 2024,Q1 2024,Interview Round 1,0,0,Withdrew,,,1.1,10.1
+1290,Sales,LinkedIn,2024-01-05,January 2024,Q1 2024,Screened,0,0,Withdrew,,,8.0,11.1
+1291,Sales,Instahyre,2024-09-08,September 2024,Q3 2024,Applied,0,0,No show,,,6.1,5.0
+1292,Sales,Naukri,2024-01-16,January 2024,Q1 2024,Hired,1,1,N/A,38.0,35.0,3.6,13.5
+1293,Operations,LinkedIn,2024-07-06,July 2024,Q3 2024,Applied,0,0,Skills mismatch,,,9.2,11.7
+1294,Engineering,LinkedIn,2024-04-21,April 2024,Q2 2024,Interview Round 2,0,0,Skills mismatch,,,5.5,21.9
+1295,Engineering,LinkedIn,2024-05-01,May 2024,Q2 2024,Applied,0,0,Withdrew,,,8.4,19.4
+1296,Engineering,Employee Referral,2024-11-08,November 2024,Q4 2024,Screened,0,0,Salary expectation,,,9.8,14.0
+1297,Engineering,Naukri,2024-09-29,September 2024,Q3 2024,Interview Round 2,0,0,Withdrew,,,11.8,16.1
+1298,HR,Naukri,2024-02-18,February 2024,Q1 2024,Applied,0,0,No show,,,11.1,21.9
+1299,Operations,LinkedIn,2024-12-01,December 2024,Q4 2024,Applied,0,0,Salary expectation,,,3.4,16.7
+1300,Engineering,LinkedIn,2024-05-06,May 2024,Q2 2024,Screened,0,0,No show,,,5.7,15.2
