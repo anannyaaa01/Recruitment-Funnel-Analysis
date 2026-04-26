@@ -1,0 +1,80 @@
+Recruitment Funnel Analysis
+Business Analyst Portfolio Project  ·  Anannya Anesweta Rout  ·  2024
+
+Executive Summary
+This analysis examines 300 candidate records across 6 departments to identify inefficiencies in the hiring funnel. Key findings reveal that Employee Referrals produce 4x better hire rates than LinkedIn, that 36% of candidates drop off before screening, and that Marketing takes the longest to hire at 42 days on average. Three actionable recommendations are presented to improve hiring efficiency.
+Key Metrics at a Glance
+Metric	Value
+Total applicants analysed	300
+Overall hire rate	13.7%
+Offer acceptance rate	82.0%
+Average time to hire	39 days
+Best performing source	Employee Referral (32.8% hire rate)
+Fastest hiring department	Finance & Sales (37 days avg)
+Biggest funnel drop	Applied → Screened (36.3% stuck at applied)
+1. Funnel Drop-off Analysis
+The funnel reveals a significant early drop-off problem. Over one-third of candidates (36.3%) never progress past the application stage, suggesting the screening process or job description clarity may need improvement.
+Stage	Candidates	% of Total
+Applied	109	36.3%
+Screened	78	26.0%
+Interview Round 1	39	13.0%
+Interview Round 2	23	7.7%
+HR Round	1	0.3%
+Offer Made	9	3.0%
+Hired	41	13.7%
+Key Insight
+•	The biggest drop happens at the very top of the funnel — 36% of applicants are rejected or ghost after applying
+•	Only 26% pass screening, suggesting job descriptions may be attracting poorly matched candidates
+•	Offer acceptance is strong at 82% — once candidates reach offer stage, they are likely to accept
+2. Recruitment Source Effectiveness
+Employee Referrals are by far the most effective source, producing a 32.8% hire rate — more than double any other channel. LinkedIn, despite generating the most applications, has the lowest hire rate at 7.8%.
+Source	Applicants	Hired	Hire Rate	Avg Days to Hire
+Employee Referral	58	19	32.8%	38.7
+Naukri	68	8	11.8%	34.0
+Instahyre	17	2	11.8%	40.0
+Company Website	33	3	9.1%	43.0
+LinkedIn	90	7	7.8%	39.7
+Campus Drive	34	2	5.9%	44.0
+Key Insight
+•	Highest hire rate (32.8%) with competitive time-to-hire — the most cost-efficient sourceEmployee Referral: 
+•	Most applicants (90) but worst conversion (7.8%) — high volume, low qualityLinkedIn: 
+•	Lowest hire rate (5.9%) and slowest to hire (44 days) — ROI needs reviewCampus Drive: 
+3. Department Performance
+Finance and Engineering lead in hire rates, while Operations struggles the most at 9.1%. Marketing takes the longest to fill positions at 42 days average.
+Department	Applicants	Hired	Hire Rate	Avg Days to Hire
+Finance	28	5	17.9%	37
+Engineering	91	15	16.5%	40
+Sales	74	10	13.5%	37
+HR	23	3	13.0%	39
+Marketing	29	3	10.3%	42
+Operations	55	5	9.1%	37
+4. Why Are Candidates Dropping Out?
+Rejection reasons are almost evenly distributed, suggesting no single dominant problem. However, 'No show' (21.2%) and 'Withdrew' (17.8%) together account for nearly 39% of rejections — indicating candidate engagement and communication issues.
+Rejection Reason	Count	% of Rejections
+No show	55	21.2%
+Salary expectation mismatch	53	20.5%
+Better candidate selected	53	20.5%
+Skills mismatch	52	20.1%
+Candidate withdrew	46	17.8%
+5. Recommendations
+Recommendation 1 — Double down on Employee Referrals
+Employee Referrals have a 32.8% hire rate vs 7.8% for LinkedIn. The company should introduce a formal referral incentive programme (cash bonus or recognition) to increase referral volume from the current 19% of applications to 30%+.
+Expected impact: If referrals increase from 58 to 90 applications, estimated additional hires: +10 per year.
+Recommendation 2 — Fix the top-of-funnel drop-off
+36% of candidates drop at the application stage. This indicates job descriptions may be unclear or overly generic, attracting mismatched applicants. Recommended actions:
+•	Rewrite JDs with specific skill requirements and clear salary bands
+•	Add a short pre-screening questionnaire (3–5 questions) to filter early
+•	Target: reduce early drop-off from 36% to under 20%
+Recommendation 3 — Reduce time-to-hire in Marketing
+Marketing takes 42 days on average — 5 days longer than the fastest departments. With only 3 hires from 29 applicants, the process appears bottlenecked. Recommended actions:
+•	Audit the Marketing interview process — identify which round causes most delay
+•	Set an SLA: all interview rounds completed within 21 days of application
+•	Consider building a pre-qualified talent pool for Marketing roles
+6. Methodology & Tools
+•	Dataset: 300 synthetic recruitment records generated to reflect realistic hiring patterns
+•	Analysis: SQL queries run in SQLite covering funnel, source, department, time-to-hire, and rejection analysis
+•	Visualisation: Power BI dashboard (see attached .pbix file)
+•	Documentation: Business findings written as a BA deliverable, not a technical report
+
+
+Anannya Anesweta Rout  ·  Business Analyst Portfolio  ·  github.com/anannya  ·  linkedin.com/in/anannya
